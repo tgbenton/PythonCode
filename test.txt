@@ -1,0 +1,9 @@
+This is a test using python to open a file and read it to the screen!
+
+GT beat Georgia this weekend.
+Tennessee lost to Vandy.
+Miami beat Duke and Mark Richt has a better record than UGA.
+
+Thanks,
+
+Tim
